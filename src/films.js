@@ -94,11 +94,11 @@ function moviesAverageByCategory(array, categoria) {
 
 // Exercise 7: Modify the duration of movies to minutes
 function hoursToMinutes(array) {
-//______________________________________
-//______________________________________
+//______________________________________//
+//______________________________________//
 //***PRUEBAS, EJERCICIO NO HECHO  IGNORAR***/
-//_______________________________________
-//_______________________________________
+//_______________________________________//
+//_______________________________________//
 let peli = array.filter(a => a.title == 'Dog Day Afternoon');
 let horas = peli.map (hours => hours.duration);
 //pelicula buscada y horas de la pelicula buscadas.
